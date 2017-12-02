@@ -1,0 +1,212 @@
+****************************************
+**         IO Performace Test         **
+****************************************
+------------- IO Write Test ------------
+IOStream                         4343 ms
+IOBufferedStream                   57 ms
+IOReaderWriter                    295 ms
+IOBufferedReaderWriter             50 ms
+IOBufferChannel                    28 ms
+IORandomAccess                   4384 ms
+IOMapped                           23 ms
+-------------- IO Read Test ------------
+IOStream                         3296 ms
+IOBufferedStream                   34 ms
+IOReaderWriter                    386 ms
+IOBufferedReaderWriter             98 ms
+IOBufferChannel                     4 ms
+IORandomAccess                   3261 ms
+IOMapped                           16 ms
+----------- IO Read/Write Test ----------
+IOStream                            0 ms
+IOBufferedStream                    0 ms
+IOReaderWriter                      0 ms
+IOBufferedReaderWriter              0 ms
+IOBufferChannel                     0 ms
+IORandomAccess                  10796 ms
+IOMapped                           28 ms
+****************************************
+Test File Size:                  2047 KB
+Cost Time:                      27159 ms
+****************************************
+**         IO Performace Test         **
+****************************************
+------------- IO Write Test ------------
+IOStream                         4585 ms
+IOBufferedStream                   55 ms
+IOReaderWriter                    257 ms
+IOBufferedReaderWriter             61 ms
+IOBufferChannel                    30 ms
+IORandomAccess                   4459 ms
+IOMapped                           23 ms
+-------------- IO Read Test ------------
+IOStream                         3348 ms
+IOBufferedStream                   34 ms
+IOReaderWriter                    360 ms
+IOBufferedReaderWriter             75 ms
+IOBufferChannel                     3 ms
+IORandomAccess                   3295 ms
+IOMapped                           14 ms
+----------- IO Read/Write Test ----------
+IOStream                            0 ms
+IOBufferedStream                    0 ms
+IOReaderWriter                      0 ms
+IOBufferedReaderWriter              0 ms
+IOBufferChannel                     0 ms
+IORandomAccess                  10801 ms
+IOMapped                           29 ms
+****************************************
+Test File Size:                  2047 KB
+Cost Time:                      27483 ms
+****************************************
+**         IO Performace Test         **
+****************************************
+------------- IO Write Test ------------
+IOStream                        41469 ms
+IOBufferedStream                  395 ms
+IOReaderWriter                    870 ms
+IOBufferedReaderWriter            405 ms
+IOBufferChannel                    67 ms
+IORandomAccess                  40546 ms
+IOMapped                           41 ms
+-------------- IO Read Test ------------
+IOStream                        29776 ms
+IOBufferedStream                  184 ms
+IOReaderWriter                   1362 ms
+IOBufferedReaderWriter            473 ms
+IOBufferChannel                    32 ms
+IORandomAccess                  29592 ms
+IOMapped                           16 ms
+----------- IO Read/Write Test ----------
+IOStream                            0 ms
+IOBufferedStream                    0 ms
+IOReaderWriter                      0 ms
+IOBufferedReaderWriter              0 ms
+IOBufferChannel                     0 ms
+IORandomAccess                  99957 ms
+IOMapped                           59 ms
+****************************************
+Test File Size:                 18431 KB
+Cost Time:                     245301 ms
+****************************************
+**         IO Performace Test         **
+****************************************
+------------- IO Write Test ------------
+IOStream                        41458 ms
+IOBufferedStream                  397 ms
+IOReaderWriter                    941 ms
+IOBufferedReaderWriter            292 ms
+IOBufferChannel                    68 ms
+IORandomAccess                  41248 ms
+IOMapped                           40 ms
+-------------- IO Read Test ------------
+IOStream                        30370 ms
+IOBufferedStream                  176 ms
+IOReaderWriter                   1359 ms
+IOBufferedReaderWriter            477 ms
+IOBufferChannel                    32 ms
+IORandomAccess                  30877 ms
+IOMapped                           18 ms
+----------- IO Read/Write Test ----------
+IOStream                            0 ms
+IOBufferedStream                    0 ms
+IOReaderWriter                      0 ms
+IOBufferedReaderWriter              0 ms
+IOBufferChannel                     0 ms
+IORandomAccess                  99577 ms
+IOMapped                           57 ms
+****************************************
+Test File Size:                 18431 KB
+Cost Time:                     247449 ms
+
+****************************************
+**         IO Performace Test         **
+****************************************
+------------- IO Write Test ------------
+IOStream                        71612 ms
+IOBufferedStream                  682 ms
+IOReaderWriter                   1480 ms
+IOBufferedReaderWriter            608 ms
+IOBufferChannel                    94 ms
+IORandomAccess                  73447 ms
+IOMapped                           58 ms
+-------------- IO Read Test ------------
+IOStream                        53344 ms
+IOBufferedStream                  303 ms
+IOReaderWriter                   2504 ms
+IOBufferedReaderWriter            808 ms
+IOBufferChannel                    62 ms
+IORandomAccess                  54106 ms
+IOMapped                           20 ms
+----------- IO Read/Write Test ----------
+IOStream                            0 ms
+IOBufferedStream                    0 ms
+IOReaderWriter                      0 ms
+IOBufferedReaderWriter              0 ms
+IOBufferChannel                     0 ms
+IORandomAccess                 177358 ms
+IOMapped                           95 ms
+****************************************
+Test File Size:                    31 MB
+Cost Time:                       7277 s
+
+****************************************
+**         IO Performace Test         **
+****************************************
+------------- IO Write Test ------------
+IOStream                        73920 ms
+IOBufferedStream                  673 ms
+IOReaderWriter                   1455 ms
+IOBufferedReaderWriter            616 ms
+IOBufferChannel                    92 ms
+IORandomAccess                  73108 ms
+IOMapped                           59 ms
+-------------- IO Read Test ------------
+IOStream                        53275 ms
+IOBufferedStream                  297 ms
+IOReaderWriter                   2439 ms
+IOBufferedReaderWriter            801 ms
+IOBufferChannel                    54 ms
+IORandomAccess                  55483 ms
+IOMapped                           16 ms
+----------- IO Read/Write Test ----------
+IOStream                            0 ms
+IOBufferedStream                    0 ms
+IOReaderWriter                      0 ms
+IOBufferedReaderWriter              0 ms
+IOBufferChannel                     0 ms
+IORandomAccess                 174372 ms
+IOMapped                           82 ms
+****************************************
+Test File Size:                 32.00 MB
+Cost Time:                     121.33 s
+****************************************
+**         IO Performace Test         **
+****************************************
+------------- IO Write Test ------------
+IOStream                         4781 ms
+IOBufferedStream                   53 ms
+IOReaderWriter                    328 ms
+IOBufferedReaderWriter             47 ms
+IOBufferChannel                    94 ms
+IORandomAccess                   4719 ms
+IOMapped                           28 ms
+-------------- IO Read Test ------------
+IOStream                         3141 ms
+IOBufferedStream                   35 ms
+IOReaderWriter                    359 ms
+IOBufferedReaderWriter             94 ms
+IOBufferChannel                    15 ms
+IORandomAccess                   3219 ms
+IOMapped                           33 ms
+----------- IO Read/Write Test ----------
+IOStream                            0 ms
+IOBufferedStream                    0 ms
+IOReaderWriter                      0 ms
+IOBufferedReaderWriter              0 ms
+IOBufferChannel                     0 ms
+IORandomAccess                  10704 ms
+IOMapped                           22 ms
+****************************************
+Test File Size:                  2.00 MB
+Cost Time:                       7.72 s
