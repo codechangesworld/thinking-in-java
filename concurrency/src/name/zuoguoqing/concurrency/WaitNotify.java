@@ -67,7 +67,7 @@ public class WaitNotify {
             synchronized(lock) {
                 try {
                     System.out.println(LocalTime.now().toString() + "  Task2 : sleep for 1000 ms...");
-                    Thread.sleep(10000);
+                    Thread.sleep(1000);
                     lock.notify();
                 } catch (InterruptedException e) {
                     System.out.println(LocalTime.now().toString() + "  Task2 : Catch Exception in lock block");

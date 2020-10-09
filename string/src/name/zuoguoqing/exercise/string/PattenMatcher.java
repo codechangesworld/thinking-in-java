@@ -36,7 +36,7 @@ public class PattenMatcher {
      */
     public static void m2() {
         Pattern pattern = Pattern.compile("([a-z]+)([0-9]+)");
-        Matcher matcher = pattern.matcher("abcac1234dsf888dd");
+        Matcher matcher = pattern.matcher("abcac1234dsf888dd4");
         
         while (matcher.find()) {
             System.out.println("group count: " + matcher.groupCount());

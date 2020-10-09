@@ -1,0 +1,797 @@
+*************************************************************************
+Method Name                   |     Result              
+-------------------------------------------------------------------------------
+getModifiers                  |     abstract interface
+getPackage                    |     package name.zuoguoqing.reflect
+-------------------------------------------------------------------------------
+getName                       |     name.zuoguoqing.reflect.Null
+getSimpleName                 |     Null
+getCanonicalName              |     name.zuoguoqing.reflect.Null
+getTypeName                   |     name.zuoguoqing.reflect.Null
+-------------------------------------------------------------------------------
+isAnnotation                  |     false
+isAnonymousClass              |     false
+isArray                       |     false
+isEnum                        |     false
+isInterface                   |     true
+isLocalClass                  |     false
+isMemberClass                 |     false
+isPrimitive                   |     false
+isSynthetic                   |     false
+-------------------------------------------------------------------------------
+getAnnotatedInterfaces        |     []
+getAnnotatedSuperclass        |     null
+getAnnotations                |     []
+-------------------------------------------------------------------------------
+getConstructors               |     []
+getDeclaredConstructors       |     []
+getEnclosingConstructor       |     null
+-------------------------------------------------------------------------------
+getFields                     |     []
+getDeclaredFields             |     []
+-------------------------------------------------------------------------------
+getMethods                    |     []
+getDeclaredMethods            |     []
+getEnclosingMethod            |     null
+-------------------------------------------------------------------------------
+getClasses                    |     []
+getDeclaredClasses            |     []
+getEnclosingClass             |     null
+-------------------------------------------------------------------------------
+getInterfaces                 |     []
+getGenericInterfaces          |     []
+getSuperclass                 |     null
+getGenericSuperclass          |     null
+getSigners                    |     null
+getTypeParameters             |     []
+*************************************************************************
+Method Name                   |     Result              
+-------------------------------------------------------------------------------
+getModifiers                  |     abstract interface
+getPackage                    |     package name.zuoguoqing.reflect
+-------------------------------------------------------------------------------
+getName                       |     name.zuoguoqing.reflect.NormalInterface
+getSimpleName                 |     NormalInterface
+getCanonicalName              |     name.zuoguoqing.reflect.NormalInterface
+getTypeName                   |     name.zuoguoqing.reflect.NormalInterface
+-------------------------------------------------------------------------------
+isAnnotation                  |     false
+isAnonymousClass              |     false
+isArray                       |     false
+isEnum                        |     false
+isInterface                   |     true
+isLocalClass                  |     false
+isMemberClass                 |     false
+isPrimitive                   |     false
+isSynthetic                   |     false
+-------------------------------------------------------------------------------
+getAnnotatedInterfaces        |     []
+getAnnotatedSuperclass        |     null
+getAnnotations                |     []
+-------------------------------------------------------------------------------
+getConstructors               |     []
+getDeclaredConstructors       |     []
+getEnclosingConstructor       |     null
+-------------------------------------------------------------------------------
+getFields                     |     public static final int id
+                              |     public static final String name
+getDeclaredFields             |     public static final int id
+                              |     public static final String name
+-------------------------------------------------------------------------------
+getMethods                    |     public abstract String getName()
+                              |     public abstract int getId()
+                              |     public default String defaultMethod()
+                              |     public static String staticMethod()
+getDeclaredMethods            |     public abstract String getName()
+                              |     public abstract int getId()
+                              |     public default String defaultMethod()
+                              |     public static String staticMethod()
+getEnclosingMethod            |     null
+-------------------------------------------------------------------------------
+getClasses                    |     []
+getDeclaredClasses            |     []
+getEnclosingClass             |     null
+-------------------------------------------------------------------------------
+getInterfaces                 |     []
+getGenericInterfaces          |     []
+getSuperclass                 |     null
+getGenericSuperclass          |     null
+getSigners                    |     null
+getTypeParameters             |     []
+*************************************************************************
+Method Name                   |     Result              
+-------------------------------------------------------------------------------
+getModifiers                  |     abstract interface
+getPackage                    |     package name.zuoguoqing.reflect
+-------------------------------------------------------------------------------
+getName                       |     name.zuoguoqing.reflect.ExtendInterface
+getSimpleName                 |     ExtendInterface
+getCanonicalName              |     name.zuoguoqing.reflect.ExtendInterface
+getTypeName                   |     name.zuoguoqing.reflect.ExtendInterface
+-------------------------------------------------------------------------------
+isAnnotation                  |     false
+isAnonymousClass              |     false
+isArray                       |     false
+isEnum                        |     false
+isInterface                   |     true
+isLocalClass                  |     false
+isMemberClass                 |     false
+isPrimitive                   |     false
+isSynthetic                   |     false
+-------------------------------------------------------------------------------
+getAnnotatedInterfaces        |     AnnotatedTypeFactory$AnnotatedTypeBaseImpl@12bc6874
+                              |     AnnotatedTypeFactory$AnnotatedTypeBaseImpl@de0a01f
+getAnnotatedSuperclass        |     null
+getAnnotations                |     []
+-------------------------------------------------------------------------------
+getConstructors               |     []
+getDeclaredConstructors       |     []
+getEnclosingConstructor       |     null
+-------------------------------------------------------------------------------
+getFields                     |     public static final String name
+                              |     public static final int id
+                              |     public static final String name
+getDeclaredFields             |     public static final String name
+-------------------------------------------------------------------------------
+getMethods                    |     public abstract void extendInterfaceMethod()
+                              |     public abstract String getName()
+                              |     public abstract int getId()
+                              |     public default String defaultMethod()
+getDeclaredMethods            |     public abstract void extendInterfaceMethod()
+getEnclosingMethod            |     null
+-------------------------------------------------------------------------------
+getClasses                    |     []
+getDeclaredClasses            |     []
+getEnclosingClass             |     null
+-------------------------------------------------------------------------------
+getInterfaces                 |     interface Null
+                              |     interface NormalInterface
+getGenericInterfaces          |     interface Null
+                              |     interface NormalInterface
+getSuperclass                 |     null
+getGenericSuperclass          |     null
+getSigners                    |     null
+getTypeParameters             |     []
+*************************************************************************
+Method Name                   |     Result              
+-------------------------------------------------------------------------------
+getModifiers                  |     abstract
+getPackage                    |     package name.zuoguoqing.reflect
+-------------------------------------------------------------------------------
+getName                       |     name.zuoguoqing.reflect.AbstractBaseClass
+getSimpleName                 |     AbstractBaseClass
+getCanonicalName              |     name.zuoguoqing.reflect.AbstractBaseClass
+getTypeName                   |     name.zuoguoqing.reflect.AbstractBaseClass
+-------------------------------------------------------------------------------
+isAnnotation                  |     false
+isAnonymousClass              |     false
+isArray                       |     false
+isEnum                        |     false
+isInterface                   |     false
+isLocalClass                  |     false
+isMemberClass                 |     false
+isPrimitive                   |     false
+isSynthetic                   |     false
+-------------------------------------------------------------------------------
+getAnnotatedInterfaces        |     []
+getAnnotatedSuperclass        |     sun.reflect.annotation.AnnotatedTypeFactory$AnnotatedTypeBaseImpl@1ef7fe8e
+getAnnotations                |     []
+-------------------------------------------------------------------------------
+getConstructors               |     []
+getDeclaredConstructors       |     [name.zuoguoqing.reflect.AbstractBaseClass()]
+getEnclosingConstructor       |     null
+-------------------------------------------------------------------------------
+getFields                     |     []
+getDeclaredFields             |     private String baseName
+                              |     protected String rootPath
+-------------------------------------------------------------------------------
+getMethods                    |     public abstract AbstractBaseClass get()
+                              |     public String getBaseInfo()
+                              |     public final void wait() throws InterruptedException
+                              |     public final void wait(long
+                              |    int) throws InterruptedException
+                              |     public final native void wait(long) throws InterruptedException
+                              |     public boolean equals(Object)
+                              |     public String toString()
+                              |     public native int hashCode()
+                              |     public final native Class getClass()
+                              |     public final native void notify()
+                              |     public final native void notifyAll()
+getDeclaredMethods            |     public abstract AbstractBaseClass get()
+                              |     public String getBaseInfo()
+getEnclosingMethod            |     null
+-------------------------------------------------------------------------------
+getClasses                    |     []
+getDeclaredClasses            |     []
+getEnclosingClass             |     null
+-------------------------------------------------------------------------------
+getInterfaces                 |     []
+getGenericInterfaces          |     []
+getSuperclass                 |     class java.lang.Object
+getGenericSuperclass          |     class java.lang.Object
+getSigners                    |     null
+getTypeParameters             |     []
+*************************************************************************
+Method Name                   |     Result              
+-------------------------------------------------------------------------------
+getModifiers                  |     
+getPackage                    |     package name.zuoguoqing.reflect
+-------------------------------------------------------------------------------
+getName                       |     name.zuoguoqing.reflect.NormalClass
+getSimpleName                 |     NormalClass
+getCanonicalName              |     name.zuoguoqing.reflect.NormalClass
+getTypeName                   |     name.zuoguoqing.reflect.NormalClass
+-------------------------------------------------------------------------------
+isAnnotation                  |     false
+isAnonymousClass              |     false
+isArray                       |     false
+isEnum                        |     false
+isInterface                   |     false
+isLocalClass                  |     false
+isMemberClass                 |     false
+isPrimitive                   |     false
+isSynthetic                   |     false
+-------------------------------------------------------------------------------
+getAnnotatedInterfaces        |     []
+getAnnotatedSuperclass        |     sun.reflect.annotation.AnnotatedTypeFactory$AnnotatedTypeBaseImpl@67117f44
+getAnnotations                |     []
+-------------------------------------------------------------------------------
+getConstructors               |     public NormalClass(String
+                              |    String
+                              |    int
+                              |    float)
+                              |     public NormalClass(String
+                              |    String)
+                              |     public NormalClass()
+getDeclaredConstructors       |     public NormalClass(String
+                              |    String
+                              |    int
+                              |    float)
+                              |     public NormalClass(String
+                              |    String)
+                              |     public NormalClass()
+getEnclosingConstructor       |     null
+-------------------------------------------------------------------------------
+getFields                     |     []
+getDeclaredFields             |     private String firstname
+                              |     private String lastname
+                              |     private int age
+                              |     private float score
+-------------------------------------------------------------------------------
+getMethods                    |     public void setAge(int)
+                              |     public void setLastname(String)
+                              |     public String getFirstname()
+                              |     public void setScore(float)
+                              |     public void setFirstname(String)
+                              |     public String getLastname()
+                              |     public int getAge()
+                              |     public float getScore()
+                              |     public final void wait() throws InterruptedException
+                              |     public final void wait(long
+                              |    int) throws InterruptedException
+                              |     public final native void wait(long) throws InterruptedException
+                              |     public boolean equals(Object)
+                              |     public String toString()
+                              |     public native int hashCode()
+                              |     public final native Class getClass()
+                              |     public final native void notify()
+                              |     public final native void notifyAll()
+getDeclaredMethods            |     public void setAge(int)
+                              |     public void setLastname(String)
+                              |     public String getFirstname()
+                              |     public void setScore(float)
+                              |     public void setFirstname(String)
+                              |     public String getLastname()
+                              |     public int getAge()
+                              |     public float getScore()
+getEnclosingMethod            |     null
+-------------------------------------------------------------------------------
+getClasses                    |     []
+getDeclaredClasses            |     []
+getEnclosingClass             |     null
+-------------------------------------------------------------------------------
+getInterfaces                 |     []
+getGenericInterfaces          |     []
+getSuperclass                 |     class java.lang.Object
+getGenericSuperclass          |     class java.lang.Object
+getSigners                    |     null
+getTypeParameters             |     []
+*************************************************************************
+Method Name                   |     Result              
+-------------------------------------------------------------------------------
+getModifiers                  |     
+getPackage                    |     package name.zuoguoqing.reflect
+-------------------------------------------------------------------------------
+getName                       |     name.zuoguoqing.reflect.ExtendClass
+getSimpleName                 |     ExtendClass
+getCanonicalName              |     name.zuoguoqing.reflect.ExtendClass
+getTypeName                   |     name.zuoguoqing.reflect.ExtendClass
+-------------------------------------------------------------------------------
+isAnnotation                  |     false
+isAnonymousClass              |     false
+isArray                       |     false
+isEnum                        |     false
+isInterface                   |     false
+isLocalClass                  |     false
+isMemberClass                 |     false
+isPrimitive                   |     false
+isSynthetic                   |     false
+-------------------------------------------------------------------------------
+getAnnotatedInterfaces        |     AnnotatedTypeFactory$AnnotatedTypeBaseImpl@2471cca7
+getAnnotatedSuperclass        |     sun.reflect.annotation.AnnotatedTypeFactory$AnnotatedTypeBaseImpl@5fe5c6f
+getAnnotations                |     []
+-------------------------------------------------------------------------------
+getConstructors               |     public ExtendClass()
+                              |     public ExtendClass(double)
+getDeclaredConstructors       |     public ExtendClass()
+                              |     public ExtendClass(double)
+getEnclosingConstructor       |     null
+-------------------------------------------------------------------------------
+getFields                     |     public static final int id
+                              |     public static final String name
+getDeclaredFields             |     private double money
+-------------------------------------------------------------------------------
+getMethods                    |     public String getName()
+                              |     public int getId()
+                              |     public String show()
+                              |     public void setAge(int)
+                              |     public void setLastname(String)
+                              |     public String getFirstname()
+                              |     public void setScore(float)
+                              |     public void setFirstname(String)
+                              |     public String getLastname()
+                              |     public int getAge()
+                              |     public float getScore()
+                              |     public final void wait() throws InterruptedException
+                              |     public final void wait(long
+                              |    int) throws InterruptedException
+                              |     public final native void wait(long) throws InterruptedException
+                              |     public boolean equals(Object)
+                              |     public String toString()
+                              |     public native int hashCode()
+                              |     public final native Class getClass()
+                              |     public final native void notify()
+                              |     public final native void notifyAll()
+                              |     public default String defaultMethod()
+getDeclaredMethods            |     public String getName()
+                              |     public int getId()
+                              |     public String show()
+                              |     private String composeInfo()
+getEnclosingMethod            |     null
+-------------------------------------------------------------------------------
+getClasses                    |     []
+getDeclaredClasses            |     []
+getEnclosingClass             |     null
+-------------------------------------------------------------------------------
+getInterfaces                 |     interface NormalInterface
+getGenericInterfaces          |     interface NormalInterface
+getSuperclass                 |     class name.zuoguoqing.reflect.NormalClass
+getGenericSuperclass          |     class name.zuoguoqing.reflect.NormalClass
+getSigners                    |     null
+getTypeParameters             |     []
+*************************************************************************
+Method Name                   |     Result              
+-------------------------------------------------------------------------------
+getModifiers                  |     
+getPackage                    |     package name.zuoguoqing.reflect
+-------------------------------------------------------------------------------
+getName                       |     name.zuoguoqing.reflect.InnerClass
+getSimpleName                 |     InnerClass
+getCanonicalName              |     name.zuoguoqing.reflect.InnerClass
+getTypeName                   |     name.zuoguoqing.reflect.InnerClass
+-------------------------------------------------------------------------------
+isAnnotation                  |     false
+isAnonymousClass              |     false
+isArray                       |     false
+isEnum                        |     false
+isInterface                   |     false
+isLocalClass                  |     false
+isMemberClass                 |     false
+isPrimitive                   |     false
+isSynthetic                   |     false
+-------------------------------------------------------------------------------
+getAnnotatedInterfaces        |     []
+getAnnotatedSuperclass        |     sun.reflect.annotation.AnnotatedTypeFactory$AnnotatedTypeBaseImpl@763d9750
+getAnnotations                |     []
+-------------------------------------------------------------------------------
+getConstructors               |     []
+getDeclaredConstructors       |     [name.zuoguoqing.reflect.InnerClass()]
+getEnclosingConstructor       |     null
+-------------------------------------------------------------------------------
+getFields                     |     []
+getDeclaredFields             |     private String name
+-------------------------------------------------------------------------------
+getMethods                    |     public int innerCal()
+                              |     public final void wait() throws InterruptedException
+                              |     public final void wait(long
+                              |    int) throws InterruptedException
+                              |     public final native void wait(long) throws InterruptedException
+                              |     public boolean equals(Object)
+                              |     public String toString()
+                              |     public native int hashCode()
+                              |     public final native Class getClass()
+                              |     public final native void notify()
+                              |     public final native void notifyAll()
+getDeclaredMethods            |     public int innerCal()
+getEnclosingMethod            |     null
+-------------------------------------------------------------------------------
+getClasses                    |     [class name.zuoguoqing.reflect.InnerClass$Inner4]
+getDeclaredClasses            |     class InnerClass$Inner1
+                              |     class InnerClass$Inner2
+                              |     class InnerClass$Inner3
+                              |     class InnerClass$Inner4
+getEnclosingClass             |     null
+-------------------------------------------------------------------------------
+getInterfaces                 |     []
+getGenericInterfaces          |     []
+getSuperclass                 |     class java.lang.Object
+getGenericSuperclass          |     class java.lang.Object
+getSigners                    |     null
+getTypeParameters             |     []
+*************************************************************************
+Method Name                   |     Result              
+-------------------------------------------------------------------------------
+getModifiers                  |     static
+getPackage                    |     package name.zuoguoqing.reflect
+-------------------------------------------------------------------------------
+getName                       |     name.zuoguoqing.reflect.InnerClass$Inner3
+getSimpleName                 |     Inner3
+getCanonicalName              |     name.zuoguoqing.reflect.InnerClass.Inner3
+getTypeName                   |     name.zuoguoqing.reflect.InnerClass$Inner3
+-------------------------------------------------------------------------------
+isAnnotation                  |     false
+isAnonymousClass              |     false
+isArray                       |     false
+isEnum                        |     false
+isInterface                   |     false
+isLocalClass                  |     false
+isMemberClass                 |     true
+isPrimitive                   |     false
+isSynthetic                   |     false
+-------------------------------------------------------------------------------
+getAnnotatedInterfaces        |     []
+getAnnotatedSuperclass        |     sun.reflect.annotation.AnnotatedTypeFactory$AnnotatedTypeBaseImpl@2be94b0f
+getAnnotations                |     []
+-------------------------------------------------------------------------------
+getConstructors               |     []
+getDeclaredConstructors       |     [name.zuoguoqing.reflect.InnerClass$Inner3()]
+getEnclosingConstructor       |     null
+-------------------------------------------------------------------------------
+getFields                     |     []
+getDeclaredFields             |     []
+-------------------------------------------------------------------------------
+getMethods                    |     public final void wait() throws InterruptedException
+                              |     public final void wait(long
+                              |    int) throws InterruptedException
+                              |     public final native void wait(long) throws InterruptedException
+                              |     public boolean equals(Object)
+                              |     public String toString()
+                              |     public native int hashCode()
+                              |     public final native Class getClass()
+                              |     public final native void notify()
+                              |     public final native void notifyAll()
+getDeclaredMethods            |     void InnerClass$f()
+                              |     int InnerClass$g(int
+                              |    int)
+getEnclosingMethod            |     null
+-------------------------------------------------------------------------------
+getClasses                    |     []
+getDeclaredClasses            |     []
+getEnclosingClass             |     class name.zuoguoqing.reflect.InnerClass
+-------------------------------------------------------------------------------
+getInterfaces                 |     []
+getGenericInterfaces          |     []
+getSuperclass                 |     class java.lang.Object
+getGenericSuperclass          |     class java.lang.Object
+getSigners                    |     null
+getTypeParameters             |     []
+*************************************************************************
+Method Name                   |     Result              
+-------------------------------------------------------------------------------
+getModifiers                  |     public
+getPackage                    |     package name.zuoguoqing.reflect
+-------------------------------------------------------------------------------
+getName                       |     name.zuoguoqing.reflect.InnerClass$Inner4
+getSimpleName                 |     Inner4
+getCanonicalName              |     name.zuoguoqing.reflect.InnerClass.Inner4
+getTypeName                   |     name.zuoguoqing.reflect.InnerClass$Inner4
+-------------------------------------------------------------------------------
+isAnnotation                  |     false
+isAnonymousClass              |     false
+isArray                       |     false
+isEnum                        |     false
+isInterface                   |     false
+isLocalClass                  |     false
+isMemberClass                 |     true
+isPrimitive                   |     false
+isSynthetic                   |     false
+-------------------------------------------------------------------------------
+getAnnotatedInterfaces        |     []
+getAnnotatedSuperclass        |     sun.reflect.annotation.AnnotatedTypeFactory$AnnotatedTypeBaseImpl@17ed40e0
+getAnnotations                |     []
+-------------------------------------------------------------------------------
+getConstructors               |     public InnerClass$Inner4(InnerClass)
+getDeclaredConstructors       |     public InnerClass$Inner4(InnerClass)
+getEnclosingConstructor       |     null
+-------------------------------------------------------------------------------
+getFields                     |     []
+getDeclaredFields             |     final InnerClass InnerClass$this$0
+-------------------------------------------------------------------------------
+getMethods                    |     public int InnerClass$cal()
+                              |     public Runnable InnerClass$runnable()
+                              |     public final void wait() throws InterruptedException
+                              |     public final void wait(long
+                              |    int) throws InterruptedException
+                              |     public final native void wait(long) throws InterruptedException
+                              |     public boolean equals(Object)
+                              |     public String toString()
+                              |     public native int hashCode()
+                              |     public final native Class getClass()
+                              |     public final native void notify()
+                              |     public final native void notifyAll()
+getDeclaredMethods            |     public int InnerClass$cal()
+                              |     public Runnable InnerClass$runnable()
+                              |     static InnerClass InnerClass$access$0(InnerClass$Inner4)
+getEnclosingMethod            |     null
+-------------------------------------------------------------------------------
+getClasses                    |     []
+getDeclaredClasses            |     []
+getEnclosingClass             |     class name.zuoguoqing.reflect.InnerClass
+-------------------------------------------------------------------------------
+getInterfaces                 |     []
+getGenericInterfaces          |     []
+getSuperclass                 |     class java.lang.Object
+getGenericSuperclass          |     class java.lang.Object
+getSigners                    |     null
+getTypeParameters             |     []
+*************************************************************************
+Method Name                   |     Result              
+-------------------------------------------------------------------------------
+getModifiers                  |     public abstract final
+getPackage                    |     null
+-------------------------------------------------------------------------------
+getName                       |     int
+getSimpleName                 |     int
+getCanonicalName              |     int
+getTypeName                   |     int
+-------------------------------------------------------------------------------
+isAnnotation                  |     false
+isAnonymousClass              |     false
+isArray                       |     false
+isEnum                        |     false
+isInterface                   |     false
+isLocalClass                  |     false
+isMemberClass                 |     false
+isPrimitive                   |     true
+isSynthetic                   |     false
+-------------------------------------------------------------------------------
+getAnnotatedInterfaces        |     []
+getAnnotatedSuperclass        |     null
+getAnnotations                |     []
+-------------------------------------------------------------------------------
+getConstructors               |     []
+getDeclaredConstructors       |     []
+getEnclosingConstructor       |     null
+-------------------------------------------------------------------------------
+getFields                     |     []
+getDeclaredFields             |     []
+-------------------------------------------------------------------------------
+getMethods                    |     []
+getDeclaredMethods            |     []
+getEnclosingMethod            |     null
+-------------------------------------------------------------------------------
+getClasses                    |     []
+getDeclaredClasses            |     []
+getEnclosingClass             |     null
+-------------------------------------------------------------------------------
+getInterfaces                 |     []
+getGenericInterfaces          |     []
+getSuperclass                 |     null
+getGenericSuperclass          |     null
+getSigners                    |     null
+getTypeParameters             |     []
+*************************************************************************
+Method Name                   |     Result              
+-------------------------------------------------------------------------------
+getModifiers                  |     public abstract final
+getPackage                    |     null
+-------------------------------------------------------------------------------
+getName                       |     [I
+getSimpleName                 |     int[]
+getCanonicalName              |     int[]
+getTypeName                   |     int[]
+-------------------------------------------------------------------------------
+isAnnotation                  |     false
+isAnonymousClass              |     false
+isArray                       |     true
+isEnum                        |     false
+isInterface                   |     false
+isLocalClass                  |     false
+isMemberClass                 |     false
+isPrimitive                   |     false
+isSynthetic                   |     false
+-------------------------------------------------------------------------------
+getAnnotatedInterfaces        |     []
+getAnnotatedSuperclass        |     null
+getAnnotations                |     []
+-------------------------------------------------------------------------------
+getConstructors               |     []
+getDeclaredConstructors       |     []
+getEnclosingConstructor       |     null
+-------------------------------------------------------------------------------
+getFields                     |     []
+getDeclaredFields             |     []
+-------------------------------------------------------------------------------
+getMethods                    |     public final void wait() throws InterruptedException
+                              |     public final void wait(long
+                              |    int) throws InterruptedException
+                              |     public final native void wait(long) throws InterruptedException
+                              |     public boolean equals(Object)
+                              |     public String toString()
+                              |     public native int hashCode()
+                              |     public final native Class getClass()
+                              |     public final native void notify()
+                              |     public final native void notifyAll()
+getDeclaredMethods            |     []
+getEnclosingMethod            |     null
+-------------------------------------------------------------------------------
+getClasses                    |     []
+getDeclaredClasses            |     []
+getEnclosingClass             |     null
+-------------------------------------------------------------------------------
+getInterfaces                 |     interface Cloneable
+                              |     interface Serializable
+getGenericInterfaces          |     interface Cloneable
+                              |     interface Serializable
+getSuperclass                 |     class java.lang.Object
+getGenericSuperclass          |     class java.lang.Object
+getSigners                    |     null
+getTypeParameters             |     []
+*************************************************************************
+Method Name                   |     Result              
+-------------------------------------------------------------------------------
+getModifiers                  |     public abstract final
+getPackage                    |     null
+-------------------------------------------------------------------------------
+getName                       |     [Ljava.lang.String;
+getSimpleName                 |     String[]
+getCanonicalName              |     java.lang.String[]
+getTypeName                   |     java.lang.String[]
+-------------------------------------------------------------------------------
+isAnnotation                  |     false
+isAnonymousClass              |     false
+isArray                       |     true
+isEnum                        |     false
+isInterface                   |     false
+isLocalClass                  |     false
+isMemberClass                 |     false
+isPrimitive                   |     false
+isSynthetic                   |     false
+-------------------------------------------------------------------------------
+getAnnotatedInterfaces        |     []
+getAnnotatedSuperclass        |     null
+getAnnotations                |     []
+-------------------------------------------------------------------------------
+getConstructors               |     []
+getDeclaredConstructors       |     []
+getEnclosingConstructor       |     null
+-------------------------------------------------------------------------------
+getFields                     |     []
+getDeclaredFields             |     []
+-------------------------------------------------------------------------------
+getMethods                    |     public final void wait() throws InterruptedException
+                              |     public final void wait(long
+                              |    int) throws InterruptedException
+                              |     public final native void wait(long) throws InterruptedException
+                              |     public boolean equals(Object)
+                              |     public String toString()
+                              |     public native int hashCode()
+                              |     public final native Class getClass()
+                              |     public final native void notify()
+                              |     public final native void notifyAll()
+getDeclaredMethods            |     []
+getEnclosingMethod            |     null
+-------------------------------------------------------------------------------
+getClasses                    |     []
+getDeclaredClasses            |     []
+getEnclosingClass             |     null
+-------------------------------------------------------------------------------
+getInterfaces                 |     interface Cloneable
+                              |     interface Serializable
+getGenericInterfaces          |     interface Cloneable
+                              |     interface Serializable
+getSuperclass                 |     class java.lang.Object
+getGenericSuperclass          |     class java.lang.Object
+getSigners                    |     null
+getTypeParameters             |     []
+*************************************************************************
+Method Name                   |     Result              
+-------------------------------------------------------------------------------
+getModifiers                  |     
+getPackage                    |     package name.zuoguoqing.reflect
+-------------------------------------------------------------------------------
+getName                       |     name.zuoguoqing.reflect.GenericClass
+getSimpleName                 |     GenericClass
+getCanonicalName              |     name.zuoguoqing.reflect.GenericClass
+getTypeName                   |     name.zuoguoqing.reflect.GenericClass
+-------------------------------------------------------------------------------
+isAnnotation                  |     false
+isAnonymousClass              |     false
+isArray                       |     false
+isEnum                        |     false
+isInterface                   |     false
+isLocalClass                  |     false
+isMemberClass                 |     false
+isPrimitive                   |     false
+isSynthetic                   |     false
+-------------------------------------------------------------------------------
+getAnnotatedInterfaces        |     AnnotatedTypeFactory$AnnotatedParameterizedTypeImpl@75412c2f
+                              |     AnnotatedTypeFactory$AnnotatedParameterizedTypeImpl@282ba1e
+getAnnotatedSuperclass        |     sun.reflect.annotation.AnnotatedTypeFactory$AnnotatedParameterizedTypeImpl@13b6d03
+getAnnotations                |     []
+-------------------------------------------------------------------------------
+getConstructors               |     public GenericClass(Object
+                              |    Object)
+getDeclaredConstructors       |     public GenericClass(Object
+                              |    Object)
+getEnclosingConstructor       |     null
+-------------------------------------------------------------------------------
+getFields                     |     []
+getDeclaredFields             |     private Object type
+                              |     private Object ele
+-------------------------------------------------------------------------------
+getMethods                    |     public Object get()
+                              |     public Iterator iterator()
+                              |     public int size()
+                              |     public void accept(Object)
+                              |     public Object getType()
+                              |     public Object doNothing()
+                              |     public void setType(Object)
+                              |     public boolean add(Object)
+                              |     public boolean remove(Object)
+                              |     public String toString()
+                              |     public void clear()
+                              |     public boolean contains(Object)
+                              |     public boolean isEmpty()
+                              |     public Object[] toArray(Object[])
+                              |     public Object[] toArray()
+                              |     public boolean addAll(Collection)
+                              |     public boolean containsAll(Collection)
+                              |     public boolean removeAll(Collection)
+                              |     public boolean retainAll(Collection)
+                              |     public final void wait() throws InterruptedException
+                              |     public final void wait(long
+                              |    int) throws InterruptedException
+                              |     public final native void wait(long) throws InterruptedException
+                              |     public boolean equals(Object)
+                              |     public native int hashCode()
+                              |     public final native Class getClass()
+                              |     public final native void notify()
+                              |     public final native void notifyAll()
+                              |     public default Spliterator spliterator()
+                              |     public default Stream stream()
+                              |     public default boolean removeIf(Predicate)
+                              |     public default Stream parallelStream()
+                              |     public default void forEach(Consumer)
+                              |     public default Consumer andThen(Consumer)
+getDeclaredMethods            |     public Object get()
+                              |     public Iterator iterator()
+                              |     public int size()
+                              |     public void accept(Object)
+                              |     public Object getType()
+                              |     public Object doNothing()
+                              |     public void setType(Object)
+getEnclosingMethod            |     null
+-------------------------------------------------------------------------------
+getClasses                    |     []
+getDeclaredClasses            |     []
+getEnclosingClass             |     null
+-------------------------------------------------------------------------------
+getInterfaces                 |     interface Nothing
+                              |     interface Consumer
+getGenericInterfaces          |     Nothing<A>
+                              |     Consumer<T>
+getSuperclass                 |     class java.util.AbstractCollection
+getGenericSuperclass          |     java.util.AbstractCollection<E>
+getSigners                    |     null
+getTypeParameters             |     [T, E, A]
