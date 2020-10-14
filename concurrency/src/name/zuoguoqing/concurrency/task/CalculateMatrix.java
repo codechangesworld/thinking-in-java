@@ -36,7 +36,7 @@ public class CalculateMatrix {
 	public CalculateMatrix(int[][] matrix) {
 		this.matrix = matrix;
 		this.threadNum = matrix.length;
-		this.result = new Integer(0);
+		this.result = Integer.valueOf(0);
 		this.rowResult = new int[threadNum];
 		this.barrier = new CyclicBarrier(threadNum, new Runnable() {
 
